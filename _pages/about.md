@@ -1,11 +1,35 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: '/images/pages/BrightMe.jpeg'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+[2019]
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+(주)이십사점오 CTO
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+대학생활 필수 앱 '슥삭' 런칭
+
+[2018]
+
+IT 연합 창업 동아리 SOPT 23기 수료
+
+소프트스퀘어드 2기 수료
+
+[2015]
+
+인하대학교 컴퓨터 학술 동아리 Neters 회장
+
+인하대학교 정보통신처 근로
+
+[2014]
+
+인하대학교 컴퓨터공학과 입학
+
+술마시며 방황
+
+
+
+임시 네이버 블로그(이곳으로 이전중)
+
+[blog.naver.com/gumgim95](<https://blog.naver.com/gumgim95>)
