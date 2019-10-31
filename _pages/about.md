@@ -48,3 +48,8 @@ IT 연합 창업 동아리 SOPT 23기 서버파트 수료
 
 [blog.naver.com/gumgim95](<https://blog.naver.com/gumgim95>)
 
+------
+
+깃허브 주소
+
+[https://github.com/hyeonson](<https://github.com/hyeonson>)
