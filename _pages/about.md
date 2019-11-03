@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About
-image: '/images/pages/BrightMe.jpg'
+image: '/images/posts/withForeigner.jpg
 ---
 
 [2019]
 
-(주)이십사점오 CTO
+(주)이십사점오 서버 개발자
 
-대학생활 필수 앱 '슥삭' 런칭
+대학생활 정보 제공 앱 '슥삭' 플레이 스토어 및 앱 스토어 런칭
 
-'인하택시' 애플리케이션 개발중
+건국대학교 지역창업경진대회 대상, 성신여자대학교 창업경진대회 우수상, GAFFITI Startup Festival 2위
+
+인하대학교 택시 매칭 서비스 '인하택시' 애플리케이션 개발중
 
 ------
 
@@ -44,12 +46,6 @@ IT 연합 창업 동아리 SOPT 23기 서버파트 수료
 
 ------
 
-네이버 블로그
-
-[blog.naver.com/gumgim95](<https://blog.naver.com/gumgim95>)
-
-------
-
-깃허브 주소
-
-[https://github.com/hyeonson](<https://github.com/hyeonson>)
+| 네이버 블로그 주소                                           | 깃허브 주소                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [blog.naver.com/gumgim95](<https://blog.naver.com/gumgim95>) | [https://github.com/hyeonson](<https://github.com/hyeonson>) |
