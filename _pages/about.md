@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/posts/withForeigner.jpg
+image: '/images/posts/withForeigner.jpg'
 ---
 
 [2019]
