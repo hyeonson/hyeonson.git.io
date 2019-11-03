@@ -8,7 +8,7 @@
 # Site settings
 title:       현슨의 개인블로그
 email:       'gumgim95@naver.com'
-description: '일기장'
+description: '현슨 일기장'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://hyeonson.github.io' # The base hostname & protocol for your site
 twitter:     ''
