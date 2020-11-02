@@ -4,6 +4,14 @@ title: About
 image: '/images/posts/withForeigner.jpg'
 ---
 
+[2020]
+
+카카오 인턴
+
+Naver Business Platform 인턴
+
+---
+
 [2019]
 
 (주)이십사점오 서버 개발자
@@ -12,7 +20,7 @@ image: '/images/posts/withForeigner.jpg'
 
 건국대학교 지역창업경진대회 대상, 성신여자대학교 창업경진대회 우수상, GAFFITI Startup Festival 2위
 
-인하대학교 택시 매칭 서비스 '인하택시' 애플리케이션 개발중
+
 
 ------
 
